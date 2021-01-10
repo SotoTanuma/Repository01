@@ -21,6 +21,7 @@ public class TestServlet extends HttpServlet {
 
 		// 1/10 Gitテスト
 		// 1/10 Gitテスト2
+		// 1/10 Gitテスト3
 
 		//実行する機能と次に表示させるページを指定する
 
