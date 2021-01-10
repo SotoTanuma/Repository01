@@ -20,6 +20,7 @@ public class TestServlet extends HttpServlet {
 		req.setCharacterEncoding("UTF-8");
 
 		// 1/10 Gitテスト
+		// 1/10 Gitテスト2
 
 		//実行する機能と次に表示させるページを指定する
 
